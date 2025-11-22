@@ -29,4 +29,4 @@ Built in Tableau, using data from FBref.
 
 'Combined2024.csv' shows the data used (once scraped and merged)
 
-'EFL Player Impact' is the Tableau workbook with visualisations and dashboard
+'EFL Player Impact.twbx' is the Tableau workbook with visualisations and dashboard
