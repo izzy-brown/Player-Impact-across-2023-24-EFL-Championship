@@ -23,7 +23,7 @@ This project brings together:
 
 Interesting to see that Kiernan Dewsbury-Hall ranks highest for attacking impact but doesn’t feature in the top 10 goal scorers before adjusting games played – proving you don’t always have to score goals to make an impact! 
 
-Built in Tableau, using data from FBref.
+Built in Tableau, using data from FBref
 
 'viz script.R' shows the R script used to scrape, clean, organise and manipulate data
 
